@@ -1,2 +1,4 @@
 <-- This is for testing -->
 hello world !!!
+get the inputs from the user
+please enter the values
